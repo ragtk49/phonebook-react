@@ -3,7 +3,7 @@
 This is a simple phonebook application built using React for the front-end and Node.js with Express for the back-end. The application allows users to store and manage their contacts using a JSON-based data format.
 
 ## Deployed
-App is deployed at https://render-test-7njr.onrender.com/
+App is deployed at https://phonebook-react-ixrk.onrender.com
 
 ## Features
 
