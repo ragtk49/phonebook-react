@@ -1,0 +1,9 @@
+DELETE "http://127.0.0.1:3001/api/persons/1"
+
+###
+POST "http://127.0.0.1:3001/api/persons"
+
+{
+    "name": "Raghu Teja",
+    "number": "040-123456"
+}
