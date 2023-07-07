@@ -1,4 +1,4 @@
-DELETE "http://127.0.0.1:3001/api/persons/1"
+DELETE "http://127.0.0.1:3001/api/persons/64a8717903cc09758cf07b70"
 
 ###
 POST "http://127.0.0.1:3001/api/persons"
